@@ -1,0 +1,25 @@
+⚡ Основни
+Ctrl + S – Запази файла
+Ctrl + Shift + S – Запази всички файлове
+Ctrl + O – Отвори файл
+Ctrl + N – Нов файл
+Ctrl + Shift + N – Нов проект
+🔍 Навигация
+Ctrl + T – Търси всичко (Go to All)
+Ctrl + G – Отиди на ред
+F12 – Отиди на дефиниция
+Ctrl + F12 – Отиди на декларация
+Ctrl + - / Ctrl + Shift + - – Назад / Напред в навигацията
+✍️ Редактиране на код
+Ctrl + K, Ctrl + C – Коментирай ред
+Ctrl + K, Ctrl + U – Махни коментар
+Ctrl + D – Дублирай ред
+Alt + ↑ / ↓ – Премести ред нагоре/надолу
+Ctrl + Space – IntelliSense (autocomplete)
+🧠 Refactor & помощ
+Ctrl + . – Quick Actions (refactor предложения)
+F2 – Rename символ
+Shift + F12 – Намери всички references
+▶️ Debug & Run
+F5 – Стартирай debugging
+Ctrl + F5 – Стартирай без debugging
